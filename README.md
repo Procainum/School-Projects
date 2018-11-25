@@ -1,2 +1,2 @@
 # School-Projects
-Various projects that I'm proud of from my college co
+Various projects that I'm proud of from my college courses
