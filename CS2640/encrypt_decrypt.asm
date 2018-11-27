@@ -1,4 +1,4 @@
-# Who:  Procaine
+# Who:  Sebastian Vivanco
 # What: encrypt.asm
 # Why:  A utility to encrypt a text document via a passphrase
 # When: Created 22 Nov, Due 6 Dec
